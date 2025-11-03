@@ -6,3 +6,5 @@ plugins:
 author: Matthew McDuffie
 header_pages:
   - index.md
+include:
+  - assets/css/custom.css

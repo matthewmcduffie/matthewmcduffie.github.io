@@ -1,0 +1,70 @@
+/* General page layout */
+body {
+  background-color: #f8f9fa;
+  color: #222;
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header section */
+header.intro {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+header.intro h1 {
+  font-size: 2.8rem;
+  margin-bottom: 0.25rem;
+  color: #003366;
+}
+
+header.intro .subtitle {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+header.intro hr {
+  width: 60%;
+  margin: 1.5rem auto;
+  border: 1px solid #003366;
+}
+
+/* Main content area */
+main.content {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 0 1.5rem 3rem;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.08);
+}
+
+main.content h2 {
+  color: #003366;
+  border-bottom: 2px solid #003366;
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+}
+
+/* Links */
+a {
+  color: #800000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Lists */
+ul {
+  list-style-type: square;
+  margin-left: 1.5rem;
+}
+
+strong {
+  color: #000;
+}
