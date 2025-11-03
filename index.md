@@ -6,12 +6,6 @@ title: Home
 <!-- Link custom styles -->
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-<header class="intro">
-  <h1>Matt McDuffie</h1>
-  <p class="subtitle">Data Analyst • Systems Administrator • Technologist</p>
-  <hr>
-</header>
-
 <main class="content">
   <section>
     <h2>About Me</h2>
