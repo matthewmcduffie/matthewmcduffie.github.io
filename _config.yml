@@ -1,8 +1,8 @@
 title: "Matthew McDuffie"
 description: "Data Analyst & Technologist"
-remote_theme: pages-themes/minima@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme 
 author: Matthew McDuffie
 header_pages:
   - index.md
